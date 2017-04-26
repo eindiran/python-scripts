@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env python
 ## Maxes out CPU utilization on all cores without using a singnificant memory footprint
 import random
 from joblib import Parallel, delayed
